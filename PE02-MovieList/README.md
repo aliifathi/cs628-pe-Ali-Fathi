@@ -1,3 +1,7 @@
+The input-process-output model is used by the Movie List application. It accepts a list of films as input, each of which has information on the film, including title, genre, rating, and year of release. The input may come from a JSON file, user input entered through the command line, or data that is already loaded into the application. To enable effective operations, the program organizes the data into a structured format, like a list or dictionary, after the input has been loaded. Among the actions available to users include searching for a certain movie by title, sorting them by rating, and filtering them by genre. To produce precise and pertinent results, these procedures are carried out using filtering and sorting algorithms. A smooth user experience is ensured by displaying the output as a refined list of movies based on the user's queries, such as a sorted list of the best-rated films or all films in a particular genre.
+
+
+
 # Input
 (Describe the type of input your program takes. Include examples if applicable.)
 # Input

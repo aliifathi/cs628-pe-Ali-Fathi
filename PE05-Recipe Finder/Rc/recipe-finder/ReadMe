@@ -1,0 +1,8 @@
+Recipe Finder is a full-stack web application that allows users to discover, add, update, and manage recipes. Built using React, Node.js, Express, and MongoDB Atlas, this app provides a seamless experience for food enthusiasts to organize and explore recipes.
+
+Features
+
+✅ Recipe List – View all available recipes with clickable links to detailed pages.
+✅ Add Recipe – Users can add new recipes with ingredients and cooking instructions.
+✅ Recipe Details – Displays full recipe information on a dedicated page.
+✅ Update & Delete – Users can edit or remove recipes easily.
